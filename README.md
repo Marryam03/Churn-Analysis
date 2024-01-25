@@ -1,1 +1,2 @@
 # Churn-Analysis
+In this project, we investigated various data analysis techniques such as reading the data, dealing with null values dropping, merging data, applying visualisations, understanding the relationship between the features and how they may affect the target variable, and by doing so, we will answer a few research questions based on the analysis. Following that, we will utilise a Machine Learning Model to assess the correctness of our results.
